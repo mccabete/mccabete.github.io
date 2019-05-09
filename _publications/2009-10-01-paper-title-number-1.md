@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Scaling contagious disturbance: a spatially-implicit dynamic model"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2019-02-Scaling_contagious_disturbance_a_spatially-implicit_dynamic_model
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2019-02
+venue: 'Frontiers in Ecology and Evolution'
+paperurl: 'https://doi.org/10.3389/fevo.2019.00064'
+citation: 'McCabe, T. D., & Dietze, M. C. (2019). Scaling Contagious Disturbance: A Spatially-Implicit Dynamic Model. Frontiers in Ecology and Evolution, 7(March), 1–17. https://doi.org/10.3389/fevo.2019.00064'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.3389/fevo.2019.00064)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: McCabe, T. D., & Dietze, M. C. (2019). Scaling Contagious Disturbance: A Spatially-Implicit Dynamic Model. Frontiers in Ecology and Evolution, 7(March), 1–17. https://doi.org/10.3389/fevo.2019.00064
