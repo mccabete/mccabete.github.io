@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Identifying foundation species in North American forests using longterm data on ant assemblage structure"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2018
+venue: 'Ecosphere'
+paperurl: 'https://doi.org/10.1002/ecs2.2139'
+citation: 'Record, S., T. McCabe, B. Baiser, and A. M. Ellison. 2018. Identifying foundation species in North American forests using longterm data on ant assemblage structure. Ecosphere 9(3):e02139. 10.1002/ecs2.2139'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Foundation species are locally abundant and uniquely control associated biodiversity, whereas dominant species are locally abundant but are thought to be replaceable in ecological systems. It is important to distinguish foundation from dominant species to direct conservation efforts. Long‐term studies that remove abundant species while measuring community dynamics have the potential to (1) aid in the identification of foundation vs. dominant species and, (2) once a foundation species is identified, determine how long its effects persist within a community after its loss. Long‐term data on ant assemblages within two canopy‐manipulation experiments—the Harvard Forest Hemlock Removal Experiment (HF‐HeRE) and the Black Rock Future of Oak Forests Experiment (BRF‐FOFE)—provide insights into how ant assemblages change and reassemble following the loss of Tsuga canadensis or Quercus spp. Previous research documented foundation species effects on ants in the HF‐HeRE for up to four years after T. canadensis loss. Six additional years of data at HF‐HeRE presented for the first time here show that removal of T. canadensis resulted in taxonomic and some measures of functional shifts in ant assemblages that persisted for ten years, further supporting the hypothesis that T. canadensis is a foundation species at Harvard Forest. In contrast, ant assemblages at BRF‐FOFE varied little regardless of whether oaks or other tree species were removed from the canopy, suggesting that Quercus species do not act as foundation species at Black Rock Forest. Deer and moose exclosures within each experiment also allowed for comparisons between effects on ants of foundation or dominant tree species relative to effects of large herbivores. At HF‐HeRE, effects of T. canadensis were stronger than effects of large herbivores on taxonomic and functional diversity of ant assemblages. At BRF‐FOFE, in contrast, effects of Quercus species were weaker than effects of large herbivores on ant taxonomic diversity and some measures of ant functional diversity. These findings illustrate the importance of distinguishing between the roles of irreplaceable foundation species and replaceable dominant ones in forested ecosystems along with other drivers of biodiversity (e.g., herbivory).
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://doi.org/10.1002/ecs2.2139)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Record, S., T. McCabe, B. Baiser, and A. M. Ellison. 2018. Identifying foundation species in North American forests using longterm data on ant assemblage structure. Ecosphere 9(3):e02139. 10.1002/ecs2.2139
