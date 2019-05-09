@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "About Me"
   avatar           : "Tess_ecologist_picture.jpg"
-  bio              : "I model how disturbances such as invasive grasses, management, land use & fire affect pine forest stands in the southeastern United States. Broadly, I want to understand what modeling ecosystems can tell us about ecological theory, and how improving ecological theory can help make ecosystem behavior easier to predict."
-  location         : "PhD Candidate, Boston University, Earth and Environment"
-  employer         : "Ecological Forecasting Lab: http://people.bu.edu/dietze/"
+  bio              : "PhD candidate modeling how disturbances such as invasive grasses, management, land use & fire affect pine forest stands in the Southeastern United States. Broadly, I want to understand what modeling ecosystems can tell us about ecological theory, and how improving ecological theory can help make ecosystem behavior easier to predict."
+  location         : "Boston University, Earth & Environment"
+  employer         : "Current Lab: http://people.bu.edu/dietze/"
   googlescholar    : "https://scholar.google.com/citations?user=XYF_fJIAAAAJ&hl=en"
   email            : "tmccabe@bu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
