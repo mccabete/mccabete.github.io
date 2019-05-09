@@ -224,6 +224,7 @@ defaults:
       path: ""
       type: publications
     values:
+      header.image: "Cogongrass_header.png"
       layout: single
       author_profile: true
       share: true
