@@ -196,8 +196,7 @@ defaults:
       path: ""
       type: posts
     values:
-      header: "Cogongrass_header.png"
-      layout: single
+      layout: splash
       author_profile: true
       read_time: true
       comments: true
@@ -242,6 +241,7 @@ defaults:
       path: ""
       type: talks
     values:
+      header: "Cogongrass_header.png"
       layout: talk
       author_profile: true
       share: true
