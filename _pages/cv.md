@@ -11,30 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* B.A, Biology (with Department Honors), Bryn Mawr College, *Cum Laude*, 2016 
+* Ph.D in Earth and Environment, Boston University, 2021 (expected)
 
 Publications
 ======
@@ -47,13 +25,44 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Earth and Environment Graduate Student Association Chair,  2019 - Present
+* Earth and Environment Graduate Student Association Vice Chair,  2018 - 2019
+* Graduate Women in Science and Engineering (GWISE) Officer,  2016 - 2019
+
+Research experience
+======
+* Research Assistant, 2016 - Present
+  * Dr. Michael Dietze' lab
+  * Develop methods for modeling and predicting disturbances
+
+* Student Researcher, Summer 2015 
+  * Aaron Ellison & Synde Record's project, Harvard Forest
+  * Collect and identify samples from a Long Term Ecological research site and contribute to 12 year running experiment. 
+
+* Student Researcher, 2014 - 2016 
+  * Dr. Sydne Record's lab, Bryn Mawr College
+  * Collect, process and identify arthropod samples
+  * Mentor newer lab members in writing, lab technique, and ant identification
+  
+Mentorship
+======
+* Google Summer of Code Mentor, Summer 2017
+* Undergraduate Women in Science and Engineering (uWise) Mentor, 2017-2018
+
+Workshops
+======
+* Flux Course, Summer 2016
+
+Skills
+======
+* Programming in R
+  * Collaborative software development (EX: PEcAn, ED2)
+* Bayesian statistics & modeling
+* Dynamic Vegetation models
+* Flux Measurements
+  * Ecosystem & Leaf-level photosynthesis
+  * plant component respiration measurements
+
