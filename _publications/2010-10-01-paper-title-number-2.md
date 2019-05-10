@@ -2,7 +2,7 @@
 title: "Identifying foundation species in North American forests using longterm data on ant assemblage structure"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 
 date: 2018-01-01
 venue: 'Ecosphere'
 paperurl: 'https://doi.org/10.1002/ecs2.2139'
