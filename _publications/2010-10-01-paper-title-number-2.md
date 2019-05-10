@@ -3,7 +3,7 @@ title: "Identifying foundation species in North American forests using longterm 
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2018
+date: 2018-01-01
 venue: 'Ecosphere'
 paperurl: 'https://doi.org/10.1002/ecs2.2139'
 citation: 'Record, S., T. McCabe, B. Baiser, and A. M. Ellison. 2018. Identifying foundation species in North American forests using longterm data on ant assemblage structure. Ecosphere 9(3):e02139. 10.1002/ecs2.2139'
